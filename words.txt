@@ -1,2 +1,2 @@
-there are a few words herethere are a few changed words here
-there are a few deleted words here
+
+changed mode to write
